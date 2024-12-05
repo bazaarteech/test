@@ -1,0 +1,54 @@
+{
+    "ar": {
+        "subscriptionTitle": "اختر خطة الاشتراك",
+        "fan": "المعجب",
+        "megaFan": "المعجب الكبير",
+        "save": "وفر",
+        "off": "خصم",
+        "freeGift": "هدية مجانية",
+        "duration1": "3 أشهر",
+        "duration2": "12 شهرًا",
+        "duration3": "12 شهرًا",
+        "addToCart": "أضف إلى السلة",
+        "popular": "🔥 شائع"
+    },
+    "en": {
+        "subscriptionTitle": "Choose Subscription plan",
+        "fan": "Fan",
+        "megaFan": "Mega Fan",
+        "save": "Save",
+        "off": "OFF",
+        "freeGift": "+Free gift",
+        "duration1": "3 months",
+        "duration2": "12 months",
+        "duration3": "12 months",
+        "addToCart": "Add to Cart",
+        "popular": "🔥 Popular"
+    },
+    "es": {
+        "subscriptionTitle": "Elige un plan de suscripción",
+        "fan": "Fan",
+        "megaFan": "Mega Fan",
+        "save": "Ahorra",
+        "off": "DE DESCUENTO",
+        "freeGift": "+Regalo gratis",
+        "duration1": "3 meses",
+        "duration2": "12 meses",
+        "duration3": "12 meses",
+        "addToCart": "Añadir al carrito",
+        "popular": "🔥 Popular"
+    },
+    "fr": {
+        "subscriptionTitle": "Choisissez un plan d'abonnement",
+        "fan": "Fan",
+        "megaFan": "Mega Fan",
+        "save": "Économisez",
+        "off": "DE RÉDUCTION",
+        "freeGift": "+Cadeau gratuit",
+        "duration1": "3 mois",
+        "duration2": "12 mois",
+        "duration3": "12 mois",
+        "addToCart": "Ajouter au panier",
+        "popular": "🔥 Populaire"
+    }
+}
