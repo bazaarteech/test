@@ -23,7 +23,7 @@
         "duration3": "6 months",
         "duration4": "12 months",
         "addToCartButton": "Add to Cart",
-        "popular": "🔥 Popular",
+        "popular": "🔥 Popular"
     },
     "es": {
         "subscriptionTitle": "Elige un plan de suscripción",
@@ -36,7 +36,7 @@
         "duration3": "6 meses",
         "duration4": "12 meses",
         "addToCartButton": "Añadir al carrito",
-        "popular": "🔥 Popular",
+        "popular": "🔥 Popular"
     },
     "fr": {
         "subscriptionTitle": "Choisissez un plan d'abonnement",
@@ -49,6 +49,6 @@
         "duration3": "6 mois",
         "duration4": "12 mois",
         "addToCartButton": "Ajouter au panier",
-        "popular": "🔥 Populaire",
+        "popular": "🔥 Populaire"
     }
 }
