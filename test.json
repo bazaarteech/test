@@ -9,7 +9,7 @@
         "duration2": "3 أشهر",
         "duration3": "6 أشهر",
         "duration4": "12 شهرًا",
-        "duration4-1": "12 شهرًا",
+        "duration4s": "12 شهرًا",
         "addToCartButton": "إضافة إلى السلة",
         "popular": "🔥 شائع"
     },
@@ -23,7 +23,7 @@
         "duration2": "3 months",
         "duration3": "6 months",
         "duration4": "12 months",
-        "duration4-1": "12 months",
+        "duration4s": "12 months",
         "addToCartButton": "Add to Cart",
         "popular": "🔥 Popular"
     },
@@ -37,7 +37,7 @@
         "duration2": "3 meses",
         "duration3": "6 meses",
         "duration4": "12 meses",
-        "duration4-1": "12 meses",
+        "duration4s": "12 meses",
         "addToCartButton": "Añadir al carrito",
         "popular": "🔥 Popular"
     },
@@ -51,7 +51,7 @@
         "duration2": "3 mois",
         "duration3": "6 mois",
         "duration4": "12 mois",
-        "duration4-1": "12 mois",
+        "duration4s": "12 mois",
         "addToCartButton": "Ajouter au panier",
         "popular": "🔥 Populaire"
     }
